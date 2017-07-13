@@ -1,0 +1,39 @@
+GIT intstall 
+git bash, git gui
+jira
+confluence
+admin gate
+slack
+git hub
+node
+npm 4+
+postman plugin
+linux commands
+get api
+post api(node) json file(retrive)
+
+https://jiracoe.fsc.atos-services.net/projects/TCM/summary
+
+unable to update npm (https://www.npmjs.com/package/npm-windows-upgrade)
+slack not finding on google
+
+
+
+172.16.147.12
+https://admingate-emea.saacon.net/Citrix/XenApp/auth/login.aspx 
+
+
+https://admingate-emea.saacon.net/Citrix/XenApp/auth/login.aspx
+
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/(install-mongodb-on-windows/)
+
+https://medium.com/@pandeysoni/crud-operations-in-node-js-application-expresss-framework-using-mongodb-eb542f0ebe57(setting Express generator Environment)
+
+https://debugmode.net/2017/03/03/step-by-step-building-node-js-based-rest-api-to-perform-crud-operations-on-mongodb/(CRUD operations-in-node-js-application-expresss-framework-using-mongodb-eb542f0ebe57)
+
+
+
+
+
+
+
